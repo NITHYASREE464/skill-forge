@@ -157,6 +157,17 @@ button:active:not(:disabled) {
   color: white;
 }
 
+/* Hide Emergent badge */
+#emergent-badge,
+[data-emergent-badge],
+.emergent-badge,
+div[style*="Made with Emergent"],
+a[href*="emergent"] {
+  display: none !important;
+  visibility: hidden !important;
+  opacity: 0 !important;
+}
+
 /* Focus styling */
 input:focus, textarea:focus, select:focus {
   outline: none;
