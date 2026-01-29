@@ -338,6 +338,9 @@ export default function DashboardPage() {
 
       {/* Job Trends Popup */}
       {showTrends && <JobTrendsPopup onClose={() => setShowTrends(false)} />}
+      
+      {/* BRO Chat Modal */}
+      <BROChatModal isOpen={showBRO} onClose={() => setShowBRO(false)} />
     </div>
   );
 }
