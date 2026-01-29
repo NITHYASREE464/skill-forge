@@ -306,7 +306,11 @@ export default function DashboardPage() {
         </div>
 
         {/* BRO Mentor Promo */}
-        <Card className="border-slate-200 bg-gradient-to-r from-slate-50 to-blue-50" data-testid="bro-promo-card">
+        <Card 
+          className="border-slate-200 bg-gradient-to-r from-slate-50 to-blue-50 cursor-pointer hover:shadow-md transition-shadow" 
+          data-testid="bro-promo-card"
+          onClick={() => setShowBRO(true)}
+        >
           <CardContent className="p-6">
             <div className="flex items-center justify-between">
               <div className="flex items-center gap-4">
@@ -320,9 +324,12 @@ export default function DashboardPage() {
                   </p>
                 </div>
               </div>
-              <div className="flex gap-2">
+              <div className="flex items-center gap-2">
                 <Badge className="bg-blue-100 text-blue-700">Voice Mode</Badge>
                 <Badge className="bg-emerald-100 text-emerald-700">Resume AI</Badge>
+                <Button className="bg-blue-600 hover:bg-blue-700 ml-2" data-testid="open-bro-btn">
+                  Chat Now
+                </Button>
               </div>
             </div>
           </CardContent>
