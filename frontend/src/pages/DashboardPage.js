@@ -21,6 +21,7 @@ export default function DashboardPage() {
   const [dsaTracks, setDsaTracks] = useState([]);
   const [readiness, setReadiness] = useState(null);
   const [showTrends, setShowTrends] = useState(false);
+  const [showBRO, setShowBRO] = useState(false);
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
