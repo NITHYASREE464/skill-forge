@@ -11,6 +11,7 @@ import {
   BookOpen, MessageSquare, FileText, TrendingUp, Flame, Database, Brain, Cpu
 } from 'lucide-react';
 import JobTrendsPopup from '@/components/JobTrendsPopup';
+import BROChatModal from '@/components/BROChatModal';
 
 const API = `${process.env.REACT_APP_BACKEND_URL}/api`;
 
