@@ -1,11 +1,11 @@
-##🚀 skillForge RPG
+## 🚀 skillForge RPG
 Learn. Build. Get Placed.
 
 skillForge RPG is a role-playing based placement preparation platform designed to help students improve technical skills, coding ability, and interview confidence through real-world, task-based learning.
 
 Unlike traditional learning platforms, skillForge focuses on skill-driven progression, where students level up only by completing meaningful technical tasks.
 
-##📌 Table of Contents
+## 📌  Table of Contents
 
 > About the Project
 
@@ -34,9 +34,9 @@ Unlike traditional learning platforms, skillForge focuses on skill-driven progre
 
 >
 
-##🧩 About the Project
+## 🧩 About the Project
 
-#skillForge RPG transforms placement preparation into an engaging RPG-style progression system.
+# skillForge RPG transforms placement preparation into an engaging RPG-style progression system.
 
 1 Students:
 
