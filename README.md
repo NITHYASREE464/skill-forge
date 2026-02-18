@@ -7,98 +7,98 @@ Unlike traditional learning platforms, skillForge focuses on skill-driven progre
 
 ##📌 Table of Contents
 
-About the Project
+> About the Project
 
-Core Features
+> Core Features
 
-Career Tracks
 
-BRO – Open-Source Voice Assistant
+> Career Tracks
 
-Resume Builder
+> BRO – Open-Source Voice Assistant
 
-Automation & Discipline System
+> Resume Builder
 
-Tech Stack
+> Automation & Discipline System
 
-Target Users
+> Tech Stack
 
-System Architecture
+> Target Users
 
-Installation
+> System Architecture
 
-Future Enhancements
+> Installation
 
-Contributing
+> Future Enhancements
 
-License
+> Contributing
 
-🧩 About the Project
+>
 
-skillForge RPG transforms placement preparation into an engaging RPG-style progression system.
+##🧩 About the Project
 
-Students:
+#skillForge RPG transforms placement preparation into an engaging RPG-style progression system.
 
-Complete real-world technical tasks
+1 Students:
 
-Gain XP and level up
+2 Complete real-world technical tasks
 
-Unlock achievements
+3 Gain XP and level up
 
-Track actual skill growth
+4 Unlock achievements
 
-Prepare systematically for placements
+5 Track actual skill growth
 
-The goal is simple:
+6 Prepare systematically for placements
 
-No fake progress. Only real skills.
+7 The goal is simple:
 
-🔐 Core Features
-1️⃣ Secure Domain Login
+8 No fake progress. Only real skills.
 
-Login using college or organization email only
+## 🔐 Core Features
+## 1️⃣ Secure Domain Login
 
-Personalized student dashboard
+1 Login using college or organization email only
 
-Secure authentication (JWT / OAuth)
+2 Personalized student dashboard
 
-Protected user data storage
+3 Secure authentication (JWT / OAuth)
 
-🧠 Career Tracks (Skill Sectors)
+4 Protected user data storage
 
-Each track is structured to match current industry and placement requirements.
+## 🧠 Career Tracks (Skill Sectors)
 
-💻 DSA (Software Engineer Track)
+1 Each track is structured to match current industry and placement requirements.
 
-Data Structures
+## 💻 DSA (Software Engineer Track)
 
-Algorithms
+1 Data Structures
 
-Problem-solving challenges
+2 Algorithms
 
-Mock coding rounds
+3 Problem-solving challenges
 
-📊 Data Analyst
+4 Mock coding rounds
 
-SQL
+## 📊 Data Analyst
 
-Excel
+1 SQL
 
-Power BI / Tableau
+2 Excel
 
-Data cleaning & visualization projects
+3 Power BI 
+4 Data cleaning & visualization projects
 
-🤖 Data Science
+# 🤖 Data Science
 
-Python
+1 Python
 
-Statistics
+2 Statistics
 
-EDA
+3 EDA
 
-Real-world datasets
+4 Real-world datasets
 
-🧠 Machine Learning
+## 🧠 Machine Learning
 
 Supervised & Unsupervised learning
 
@@ -110,21 +110,21 @@ Capstone projects
 
 🎯 Task-Based RPG Progression
 
-Real coding & technical challenges
+1  coding & technical challenges
 
-XP, points, and level system
+2 XP, points, and level system
 
-Performance-based rewards
+3 Performance-based rewards
 
-Streak tracking
+4 Streak tracking
 
-Skill-based ranking
+ 5 Skill-based ranking
 
-Progress reflects actual capability — not video completion.
+ 6 Progress reflects actual capability — not video completion.
 
-🗣️ BRO – Open-Source Voice Assistant
+## 🗣️ BRO – Open-Source Voice Assistant
 
-BRO is a mentor-style assistant built using open-source AI models.
+> BRO is a mentor-style assistant built using open-source AI models.
 
 🔹 Capabilities:
 
@@ -140,7 +140,7 @@ BRO is a mentor-style assistant built using open-source AI models.
 
 BRO acts like a personal placement mentor inside the platform.
 
-📄 Resume Builder
+## 📄 Resume Builder
 
 Role-specific resume templates
 
@@ -152,7 +152,7 @@ PDF export support
 
 Auto project descriptions from completed tasks
 
-⏰ Automation & Discipline System
+## ⏰ Automation & Discipline System
 
 Weekly reminders to:
 
@@ -199,7 +199,7 @@ Cloud & Deployment
 
 Firebase / AWS / Supabase
 
-🏗️ System Architecture (High Level)
+## 🏗️ System Architecture (High Level)
 Client (React / React Native)
         ↓
 API Layer (Node.js / FastAPI)
@@ -226,7 +226,7 @@ cd ../backend
 npm install
 
 
-Create a .env file in backend:
+## Create a .env file in backend:
 
 PORT=5000
 DATABASE_URL=your_database_url
@@ -235,52 +235,52 @@ JWT_SECRET=your_secret_key
 
 Run backend:
 
-npm start
+> npm start
 
 
-Run frontend:
+> Run frontend:
 
-npm start
+> npm start
 
-🎯 Target Users
+## 🎯 Target Users
 
-🎓 College students
+## 🎓 College students
 
-💼 Placement aspirants
+## 💼 Placement aspirants
 
-👨‍💻 Beginner to intermediate developers
+## 👨‍💻 Beginner to intermediate developers
 
-🧠 Students preparing for IT roles
+## 🧠 Students preparing for IT roles
 
-🚀 Future Enhancements
+## 🚀 Future Enhancements
 
-Company-specific preparation tracks
+1 Company-specific preparation tracks
 
-Leaderboards (College-wise / Global)
+2 Leaderboards (College-wise / Global)
 
-Real-time coding battles
+3 Real-time coding battles
 
-Peer collaboration system
+4 Peer collaboration system
 
-Internship marketplace integration
+5 Internship marketplace integration
 
-AI-powered personalized learning roadmap
+6 AI-powered personalized learning roadmap
 
-🤝 Contributing
+## 🤝 Contributing
 
-Contributions are welcome!
+1 Contributions are welcome!
 
-Fork the repository
+2 Fork the repository
 
-Create a feature branch
+3 Create a feature branch
 
-Commit your changes
+4 Commit your changes
 
-Open a Pull Request
+5 Open a Pull Request
 
 Let’s build the future of placement preparation together 🚀
 
-📜 License
+## 📜 License
 
 This project is licensed under the MIT License.
 Feel free to use and modify with attribution.
